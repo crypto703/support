@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    font-style: bold ;
+    background-color: rgb(30, 145, 159);
+}
+
+header {
+        background: rgb(11, 146, 40);
+}
+
+main {
+     background-color: rgb(51, 66, 150);
+}
+
+main p {
+    padding: 4px;
+    font-size: 20px;
+
+}
+
+h2 {
+    padding-top: 4px;
+    padding-left: 4px;
+    }
+
+h1 {
+    text-align: center;
+ margin-top: 40px;
+ padding: 20px;
+ font-size: 40px;
+ background-color: rgb(11, 146, 40);
+}
+
+header {
+    background: rgb(11, 146, 40);
+}
+a {
+    font-size: 24px;
+    color: rgba(200, 255, 0, 0.795);
+    text-decoration: none;
+}
+
+
